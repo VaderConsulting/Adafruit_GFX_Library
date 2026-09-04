@@ -2,7 +2,7 @@
 
 Adafruit GFX graphics core library, this is the 'core' class that all our other graphics libraries derive from. Install this library in addition to the display library for your hardware. Original author: Adafruit. This is Dave Robinson's working copy from the Arduino `libraries` tree. Version recorded in `library.properties`: 1.10.13. Upstream: <https://github.com/adafruit/Adafruit-GFX-Library>.
 
-**Source last updated:** 2022-01-25  
+**Source last updated:** 2016-12-11  
 **Language:** C++ / Arduino  
 **Target:** Arduino (*)  
 **Output:** Arduino library
